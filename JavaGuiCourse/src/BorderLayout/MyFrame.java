@@ -50,7 +50,7 @@ public class MyFrame extends JFrame {
         panel8.setPreferredSize(subDimension);
         panel9.setPreferredSize(subDimension);
         panel10.setPreferredSize(subDimension);
-        
+
         panel5.add(panel6,BorderLayout.NORTH);
         panel5.add(panel7,BorderLayout.WEST);
         panel5.add(panel8,BorderLayout.EAST);
